@@ -1,0 +1,3 @@
+DBUrl = jdbc:mysql://localhost/ProductsDB_AlHothly_AlMadi
+user = AA
+password = 123456
